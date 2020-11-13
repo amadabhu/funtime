@@ -1,4 +1,4 @@
-class Solution:
+class vowel_remover:
     def removeVowels(self, S: str) -> str:
         vowels = list('aeiou')
         s_ls = list(S)
